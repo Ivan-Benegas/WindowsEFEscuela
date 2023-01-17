@@ -26,8 +26,5 @@ namespace WindowsEF.Models
 
         public DateTime? FechaNacimiento { get; set; }
 
-
-
-
     }
 }
